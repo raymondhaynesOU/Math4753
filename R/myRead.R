@@ -6,7 +6,6 @@
 #' @export
 #'
 #' @examples
-#' dird="C:\\Users\\stew9983\\OneDrive - University of Oklahoma\\DATAxls\\"
 #' mpg.df=myread("EPAGAS.csv")
 myread = function(csv){
   read.table(csv,header=TRUE,sep=",")

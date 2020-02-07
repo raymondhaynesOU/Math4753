@@ -1,0 +1,10 @@
+Package: Math4753
+Type: Package
+Title: Functions For Labs
+Version: 0.1.0
+Author: Raymond Haynes
+Description: These functions are for credit in the Lab assignments.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2

@@ -16,6 +16,5 @@ data frame that contains the data
 CSV Reader (Lab 2 Version)
 }
 \examples{
-dird="C:\\\\Users\\\\stew9983\\\\OneDrive - University of Oklahoma\\\\DATAxls\\\\"
 mpg.df=myread("EPAGAS.csv")
 }

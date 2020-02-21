@@ -1,10 +1,11 @@
 #' myncurve
 #'
-#' @param mu The mean of the normal curve.
-#' @param sigma The sd of the normal curve
-#' @param a The endpoint for the probability.
+#' @param mu The mean
+#' @param sigma The standarad deviation
+#' @param a The point used for the probability of a certain set of values.
 #'
-#' @return A normal curve with an area from -infinity to a shaded in.
+#' @return A Normal curve with the probability region shaded and also returns
+#' the value of the probability
 #' @export
 #'
 #' @examples
